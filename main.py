@@ -1,4 +1,4 @@
-
+#Un comentario solo para decir lo mal que está escrito esto
 def abrirarchivo():
 	archivo=input('Archivo: ')
 	while True:
